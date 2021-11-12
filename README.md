@@ -1,6 +1,6 @@
 - 👋 Hi, My Name is AmirHossein
 - 👀 I’m interested in Python/Django & Dart/Flutter
-- 🌱 I’m currently learning Flutter
+- 🌱 currently I’m learning Flutter
 
 
 <!---
