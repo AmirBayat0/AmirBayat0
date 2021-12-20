@@ -1,10 +1,6 @@
-- 👋 Hi, My Name is AmirHossein
-- 👀 I’m interested in Python/Django & Dart/Flutter
-- 🌱 currently I’m learning Flutter
+- Hello Everyone👋, My name is Amir and my nickname is Flexz. I'm SoftWare Engineering Student👨‍💻. I’m interested in  Dart/Flutter.! Presently, I'm  learning flutter📱 professionally, and also working on flutter 100 days challenge for myself.
 
-
-
-## Links
+## You can follow me on the socials below 👇
 * [My Socials](https://znap.link/CodeWithFlexz)
 * [Youtube channel](https://www.youtube.com/channel/UCLVrYXt3SL9rT-IcDmgU9Wg)
 * [Instagram](https://instagram.com/codewithflexz)
