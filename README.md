@@ -8,7 +8,7 @@
 </p>
 
 ## :sassy_man:  About me
-- 👨‍💻 I am a `Mid Level` Flutter Developer
+- 👨‍💻 I’m a `Mid Level` Flutter Developer
 - :student: I’m a `Software Engineering` student.
 - 🎮 I’m interested in `Dart/Flutter`.
 - ✋ Presently, I'm learning `Flutter📱` professionally.
@@ -103,7 +103,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/amirbayat0/github-readme-stats"><img alt="AmirHosseinBayat Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirbayat0&custom_title=Amirhossein Bayat Github Stats&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/amirbayat0/github-readme-stats"><img alt="AmirHosseinBayat Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirbayat0&custom_title=AmirHossein Bayat Github Stats&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirbayat0&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="amirbayat0" height="192px"/>
@@ -115,7 +115,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/amirbayat0"><img alt="Amir hossein Bayat Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amirbayat0&custom_title=AmirhosseinBayat%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/amirbayat0"><img alt="AmirHossein Bayat Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amirbayat0&%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <br/>
 
