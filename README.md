@@ -9,7 +9,7 @@
 
 ## :sassy_man:  About me
 - 👨‍💻 I am a `Mid Level` Flutter Developer
-- :student: I’m currently a `Software Engineering` student.
+- :student: I’m a `Software Engineering` student.
 - 🎮 I’m interested in `Dart/Flutter`.
 - ✋ Presently, I'm learning `Flutter📱` professionally.
 - :technologist: I love using Software as a solution for every `Problem`
