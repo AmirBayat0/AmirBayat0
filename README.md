@@ -115,7 +115,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/amirbayat0"><img alt="Amir hossein Bayat Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amirbayat0&custom_title=AmirhosseinBayat%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/amirbayat0"><img alt="Amir hossein Bayat Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amirbayat0&custom_title=Amirhossein Bayat%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <br/>
 
