@@ -7,13 +7,16 @@
 	<img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=0e75b6&style=plastic" alt="amirbayat0" /> 
 </p>
 
-## :sassy_man:  About me
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+
+<br><br>
 - 👨‍💻 I’m a `Mid Level` Flutter Developer
 - :student: I’m a `Software Engineering` student.
 - 🎮 I’m interested in `Dart/Flutter`.
 - ✋ Presently, I'm learning `Flutter📱` professionally.
 - :technologist: I love using Software as a solution for every `Problem`
-
 - :nerd_face: Always `Learning New Things`
 
 <br>
