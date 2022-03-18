@@ -103,7 +103,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/amirbayat0/github-readme-stats"><img alt="amirbayat0 Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirbayat0&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/amirbayat0/github-readme-stats"><img alt="AmirHossein Bayat Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirbayat0&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirbayat0&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="amirbayat0" height="192px"/>
