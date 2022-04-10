@@ -15,7 +15,7 @@
 - 👨‍💻 I’m a `Mid Level` Flutter Developer
 - :student: I’m a `Software Engineering` student.
 - 🎮 I’m interested in `Dart/Flutter`.
-- ✋ Presently, I'm learning `Flutter📱` professionally.
+- ✋ Presently, I'm developing Softwares & apps with `Flutter📱`.
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `Learning New Things`
 
