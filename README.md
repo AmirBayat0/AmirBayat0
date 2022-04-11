@@ -12,9 +12,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br><br>
-Hello Everyone 👋, My name is Amir and my nickname is Flexz. I'm SoftWare Engineering Student👨‍💻
+<h4>Hello Everyone 👋, My name is Amir and my nickname is Flexz. I'm SoftWare Engineering Student👨‍💻
 I’m interested in Dart/Flutter. Presently, I'm developing Softwares & apps with Flutter.
-You can follow me on the socials, below 👇.
+You can follow me on the socials, below 👇.</h4>
 
 <br>
 <br>
