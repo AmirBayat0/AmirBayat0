@@ -7,7 +7,7 @@
 	<img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=0e75b6&style=plastic" alt="amirbayat0" /> 
 </p>
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
 
 <br><br>
 Hello Everyone 👋, My name is Amir and my nickname is Flexz.
@@ -19,7 +19,7 @@ You can follow me on the socials, below 👇.
 <br><br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px height = 50px> Connect with me
 <p align="center">
 	<a href="mailto:amirbayat.dev@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/amirbayat0"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
