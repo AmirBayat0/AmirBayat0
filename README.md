@@ -9,7 +9,7 @@
 - Presently, I'm developing Softwares & apps with Flutter.<br>
 
 <p> 
-<img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=0e75b6&style=plastic" alt="amirbayat0" /> 
+<img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=8042fc&style=plastic" alt="amirbayat0" /> 
 </p>
 
 </a><a href="https://www.github.com/amirbayat0" target="_blank" rel="noreferrer"><img
