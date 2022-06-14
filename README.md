@@ -6,7 +6,8 @@
 - Hello Everyone 👋, My name is Amir and my nickname is Flexz.<br>
 - I'm SoftWare Engineering Student👨‍💻.<br>
 - I’m interested in Dart/Flutter.<br>
-- Presently, I'm developing Softwares & apps with Flutter.<br>
+- Presently, I'm developing Softwares & apps with Flutter.
+-  you can See my portfolio at [Instagram](http://www.instagram.com/codewithflexz)<br>
 
 <img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=8042fc&style=plastic" alt="amirbayat0" /> 
 
