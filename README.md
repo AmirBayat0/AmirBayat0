@@ -26,14 +26,6 @@ Hello Everyone👋 <br>My name is Amir and my nickname is Flexz.<br>I'm Software
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amirbayat0&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirbayat0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amirbayat0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-![](https://camo.githubusercontent.com/ad8ea6fc9da53ab080110622c5b283bc938578fb067b05059d91aab2883fce4b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616d6972626179617430266c6162656c3d50726f66696c65253230766965777326636f6c6f723d383034326663267374796c653d706c6173746963)
 
   ## 💰 You can help me by Donating
 <a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
