@@ -16,7 +16,7 @@
   <a href="https://znap.link/CodeWithFlexz" target="_blank" rel="noreferrer"><img src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="60" height="50" /></a>
   
 <details>
- <summary> Github Stats ⚡</summary>
+ <summary> <h3>Github Stats <h3>⚡</summary>
     
 ![](https://github-readme-stats.vercel.app/api?username=amirbayat0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amirbayat0&theme=tokyonight&hide_border=false)<br/>
