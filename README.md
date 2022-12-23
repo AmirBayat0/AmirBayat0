@@ -18,7 +18,7 @@ Hello Everyone👋 <br>My name is Amir and my nickname is Flexz.<br>I'm Software
 
 # 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,php,mysql,sqlite,photoshop,xd,vscode,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,photoshop,xd,vscode,git,github&theme=dark" />
   </a>
 
 # 📊 GitHub Stats:
