@@ -6,7 +6,7 @@
   </a>
   
 ### 🌐 Socials:
-<a href="https://instagram.com/@codewithflexz">
+<a href="https://instagram.com/codewithflexz">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
    <a href="https://linkedin.com/in/amirhossein-bayat-9288a4225">
