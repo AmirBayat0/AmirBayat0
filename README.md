@@ -12,8 +12,12 @@
    <a href="https://linkedin.com/in/amirhossein-bayat-9288a4225">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/youtube_logo_icon_189232.png" height=50  ></a>
-  <a href="https://znap.link/CodeWithFlexz" target="_blank" rel="noreferrer"><img src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="60" height="50" /></a>
+  <a href="https://tlgrm.in/Codewithflexz" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" height="50"  /></a>
+  <a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2592/PNG/512/youtube_logo_icon_154503.png" height=55  ></a>
+    <a href="https://znap.link/CodeWithFlexz](https://amirbayat.dev@gmail.com)" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Cutout.png" height="50"  /></a>
+      
+  <a href="https://znap.link/CodeWithFlexz" target="_blank" rel="noreferrer"><img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png"   height="50" /></a>
+ 
   
 <details>
  <summary> <h3>Github Stats <h3>⚡</summary>
