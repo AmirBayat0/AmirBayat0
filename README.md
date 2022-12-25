@@ -12,7 +12,7 @@
    <a href="https://linkedin.com/in/amirhossein-bayat-9288a4225">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2592/PNG/512/youtube_logo_icon_154503.png" height=50  ></a>
+  <a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/youtube_logo_icon_189232.png" height=50  ></a>
   <a href="https://znap.link/CodeWithFlexz" target="_blank" rel="noreferrer"><img src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="60" height="50" /></a>
   
 <details>
