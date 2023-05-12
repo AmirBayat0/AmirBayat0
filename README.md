@@ -2,7 +2,7 @@
 **I'm Amir** - I'm a Flutter developer, currently, I Study Software Engineering, and I'm so interested in Dart/Flutter, Presently, I'm developing Software & apps with Flutter, You can see my portfolio on <a href="https://instagram.com/@codewithflexz"> Instagram.</a>
 ### 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,photoshop,xd,vscode,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
   </a>
   
 ### 🌐 Socials:
