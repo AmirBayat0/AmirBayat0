@@ -1,4 +1,4 @@
- <h1 align="left">Hey 👋 What's up?</h1>
+ <h1 align="left" style="color:white;" >Hey 👋 What's up?</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">🌐 My socials</h2>
+<h2 align="left" style="color:white;" >🌐 My socials</h2>
 
 ###
 
@@ -46,7 +46,7 @@
   
 </div>
 
-<h2 align="left">🔥 GitHub Stats</h2>
+<h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
 
 <div align="left">
  
@@ -59,7 +59,7 @@
 
 ###
 
-<h2 align="left">💰 You can help me by Donating</h2>
+<h2 align="left" style="color:white;" >💰 You can help me by Donating</h2>
 <a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
 
