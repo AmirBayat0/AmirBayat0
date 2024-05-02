@@ -56,9 +56,7 @@
 
 ###
 
-<h2 align="left" style="color:white;" >💰 You can help me by Donating</h2>
-<a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
-
+<a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=AmirBayat&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
 
