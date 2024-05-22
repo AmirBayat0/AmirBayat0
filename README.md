@@ -30,6 +30,9 @@
   <a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/amirhossein-bayat-9288a4225" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
   <a href="https://tlgrm.in/Codewithflexz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
