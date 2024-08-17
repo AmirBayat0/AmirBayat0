@@ -38,11 +38,9 @@ I'm FlexZ, a Flutter developer with a deep passion for Dart and Flutter. 🚀 I'
   <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="50" />
   </a>
   
-
-
 ###
 
-<a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=AmirBayat&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=AmirBayat&button_colour=000000&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 
 
