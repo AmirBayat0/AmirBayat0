@@ -1,27 +1,17 @@
- <h1 align="left" style="color:white;" >Hey 👋 What's up?</h1>
+### Hi there 👋🏻
+
+# About Me
+I'm FlexZ, a Flutter developer with a deep passion for Dart and Flutter. 🚀 I'm also pursuing a degree in Software Engineering 📚, and I'm currently immersed in building innovative software and applications. If you'd like to see my work, feel free to check out my portfolio on Instagram! 📱👀
+
+- 📱 Flutter Developer / Freelancer
+- ✨ UI / UX Enthusiast
+- 💻 Committed to writing clean, efficient code
+- ♥️ Passionate about exploring new places
+- 💁🏻  Sharing insights, apps, and tips on Flutter development on [Instagram](https://instagram.com/codewithflexz).
 
 ###
 
-<p align="left">My name is FlexZ, and I work as a Flutter developer. 🚀 Currently, I'm pursuing a degree in Software Engineering 📚, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram! 📱👀</p>
-
-###
-
-<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
-
-###
-
-<div align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
-  </a>
- 
-</div>
-
-###
-
-<h2 align="left" style="color:white;" >🌐 My socials</h2>
-
-###
+### Reach me via 👇🏻
 
 <div align="left">
   <a href="https://instagram.com/codewithflexz" target="_blank">
@@ -44,17 +34,6 @@
   <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="50" />
   </a>
   
-</div>
-
-<h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
-
-<div align="left">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=amirbayat0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
- 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbayat0&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
- 
- 
 </div>
 
 ###
