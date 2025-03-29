@@ -40,11 +40,7 @@ I'm FlexZ, a Flutter developer with a deep passion for Dart and Flutter. 🚀 I'
   
 ###
 
-
-
-
-
- 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N21CN49Q)
 
 
 
