@@ -21,6 +21,9 @@ I'm FlexZ, a Flutter developer with a deep passion for Dart and Flutter. 🚀 I'
   <a href="https://instagram.com/codewithflexz" target="_blank">
     <img src="https://github.com/user-attachments/assets/3e1066a5-35cc-4ce4-9035-6fc457c7e4c9"  height="50" alt="instagram logo"  />
   </a>
+   <a href="https://www.tiktok.com/@codewithflexz" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/130627394?s=200&v=4"  height="50" alt="Tiktok logo"  />
+  </a>
   <a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank">
     <img src="https://github.com/user-attachments/assets/191ecd5f-d6c5-4348-ab46-23f9ccd41fb8" height="50" alt="youtube logo"  />
   </a>
