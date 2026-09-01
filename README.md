@@ -30,6 +30,11 @@ I'm FlexZ, a Flutter developer with a deep passion for Dart and Flutter. 🚀 I'
   <a href="https://www.linkedin.com/in/amirhossein-bayat-9288a4225" target="_blank">
     <img src="https://github.com/user-attachments/assets/6708f656-58c5-4305-bce9-62663961137a" height="50" alt="telegram logo"  />
   </a>
+
+  <a href="https://nl.pinterest.com/codewithflexz/" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pinterest-round-white-icon.png" height="50" alt="telegram logo"  />
+  </a>
+  
   <a href="https://tlgrm.in/Codewithflexz" target="_blank">
     <img src="https://github.com/user-attachments/assets/e9b394e0-79b0-475f-baf0-15e6b92864bb" height="50" alt="telegram logo"  />
   </a>
